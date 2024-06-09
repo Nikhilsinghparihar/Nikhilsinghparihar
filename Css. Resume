@@ -1,0 +1,43 @@
+<style>
+body {
+  background-image: url('avenger logo.jpg');
+ background-repeat: no-repeat;
+}
+</style>
+
+<style>
+#employee-information{
+  background-color: lightblue;
+  color: black;
+  padding: 40 px;
+  text-align: center;
+}
+</style>
+
+<style>
+#form{
+  background-color: lightblue;
+  color: black;
+  padding: 40 px;
+  text-align: center;
+}
+</style>
+
+<style>
+#body {
+  background-color: lightblue;
+  color: black;
+  padding: 40 px;
+  text-align: left;
+}
+</style>
+
+<style>
+#employee-details {
+  background-color: lightblue;
+  color: black;
+  padding: 40 px;
+  text-align: center;
+}
+</style>
+
