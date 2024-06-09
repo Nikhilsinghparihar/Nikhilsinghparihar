@@ -12,7 +12,6 @@ body {
  background-repeat: no-repeat;
 }
 </style>
-
 <style>
 #employee-information{
   background-color: lightblue;
